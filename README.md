@@ -8,7 +8,7 @@ This container is based on [SequenceIQ Hadoop-Docker image](https://registry.hub
 # Pull the image
 
 ```
-docker pull fluddeni/hadoop-pig16
+docker pull fluddeni/hadoop-pig
 ```
 
 # Start a container
@@ -16,7 +16,7 @@ docker pull fluddeni/hadoop-pig16
 In order to use the Docker image use:
 
 ```
-docker run -i -t fluddeni/hadoop-pig16 /etc/bootstrap.sh -bash
+docker run -i -t fluddeni/hadoop-pig /etc/bootstrap.sh -bash
 ```
 
 # Test Pig
