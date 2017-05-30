@@ -1,9 +1,9 @@
 Hadoop & Pig
 ==============================
 
-Docker container to run Pig 0.16.0 with hadoop 2.5.2
+Docker container to run Pig 0.16.0 with hadoop 2.7.1
 
-This container is based on [SequenceIQ Hadoop-Docker image](https://registry.hub.docker.com/u/sequenceiq/hadoop-docker/) 
+This container is based on [fluddeni Hadoop-Docker image](https://registry.hub.docker.com/u/fluddeni/hadoop/) 
 
 # Pull the image
 
