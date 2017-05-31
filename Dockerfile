@@ -3,7 +3,7 @@
 #
 
 
-FROM fluddeni/hadoop:2.7.1
+FROM fluddeni/hadoop:2.7.3
 MAINTAINER Frédéric Luddeni
 
 RUN curl -LO http://mirror.vorboss.net/apache/pig/pig-0.15.0/pig-0.15.0.tar.gz
