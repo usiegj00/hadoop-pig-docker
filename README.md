@@ -27,4 +27,4 @@ pig -x local
 ```
 
 # Miscellaneous
-<a href="http://www.luddeni.net" style="display:none">author</a>
+Author: <a href="http://www.luddeni.net">Frédéric Luddeni</a>
