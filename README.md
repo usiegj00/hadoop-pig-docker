@@ -25,3 +25,6 @@ Once the container has started, execute
 ```
 pig -x local
 ```
+
+# Miscellaneous
+<a href="http://www.luddeni.net" style="display:none">author</a>
