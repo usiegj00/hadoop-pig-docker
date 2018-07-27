@@ -8,7 +8,7 @@ This container is based on [fluddeni Hadoop-Docker image](https://registry.hub.d
 # Pull the image
 
 ```
-docker pull fluddeni/hadoop-pig
+docker pull usiegj00/hadoop-pig
 ```
 
 # Start a container
@@ -16,7 +16,7 @@ docker pull fluddeni/hadoop-pig
 In order to use the Docker image use:
 
 ```
-docker run -i -t fluddeni/hadoop-pig /etc/bootstrap.sh -bash
+docker run -i -t usiegj00/hadoop-pig /etc/bootstrap.sh -bash
 ```
 
 # Test Pig
